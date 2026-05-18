@@ -28,6 +28,7 @@ This learning log helps me:
 - Bill of Materials basics
 - Technical documentation
 
+````markdown
 ## Repository Structure
 
 ```text
@@ -38,10 +39,4 @@ uav-embedded-learning-log/
 └── notes/
     ├── uav-architecture-basics.md
     ├── payload-integration-basics.md
-    └── gnss-and-telemetry.md
-
-- UAV architecture basics
-- Payload integration basics
-- GNSS and telemetry
-- Power system basics
-- Flight controller fundamentals
+    └── gnss-and-telemetry.mdroller fundamentals
