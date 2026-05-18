@@ -28,15 +28,25 @@ This learning log helps me:
 - Bill of Materials basics
 - Technical documentation
 
-````markdown
 ## Repository Structure
 
-```text
-uav-embedded-learning-log/
-│
-├── README.md
-│
-└── notes/
-    ├── uav-architecture-basics.md
-    ├── payload-integration-basics.md
-    └── gnss-and-telemetry.mdroller fundamentals
+- `README.md`  
+  Main overview of the repository.
+
+- `notes/uav-architecture-basics.md`  
+  Beginner note about the main UAV subsystems and how they interact.
+
+- `notes/payload-integration-basics.md`  
+  Beginner note about payload weight, power, mounting, vibration, cooling, and reliability.
+
+- `notes/gnss-and-telemetry.md`  
+  Beginner note about satellite positioning and UAV-to-ground-station communication.
+
+## Planned Notes
+
+- Power system basics
+- Flight controller fundamentals
+- ESC and BLDC motor basics
+- IMU sensor basics
+- Fixed-wing vs multirotor vs VTOL comparison
+- UAV payload power budget example
